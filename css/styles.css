@@ -1,0 +1,20 @@
+
+/*BACKGROUND IMAGE CSS*/
+
+body, html {
+    height: 100%;
+  }
+
+  .bg {
+    /* The image used */
+    background-image: url("/pics/ac-grass.png");
+  
+    /* Full height */
+    height: 100%;
+    width: 100%;
+  
+    /* Center and scale the image */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
